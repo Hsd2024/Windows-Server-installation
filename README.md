@@ -2,6 +2,10 @@
 **Description**:
 Windows Server is a server operating system developed by Microsoft, designed for managing enterprise-level IT infrastructure, networks, applications, and data storage.
 
+To install the windows server you may need a Vertual Machine on your PC or a PC to install the IOS.
+
+To start installation follow as bellow.
+
 1- Download the IOS from the link https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019
 
 2- Start installation
