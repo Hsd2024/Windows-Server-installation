@@ -34,4 +34,5 @@ To start installation follow as bellow.
 
 8- This is the final step
 
-<img width="962" alt="7" src="https://github.com/user-attachments/assets/066c6885-f1cf-4a89-a859-9c909fe2fd66" />
+![7](https://github.com/user-attachments/assets/685ca674-e421-490d-b80e-136536841233)
+
