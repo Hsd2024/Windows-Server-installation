@@ -14,7 +14,7 @@ To start installation follow as bellow.
 
 3- Select the type of Operating System from the list.
 
-![2](https://github.com/user-attachments/assets/5aa7c08d-532a-4aa1-80f3-ebfa30386843)
+![2](https://github.com/user-attachments/assets/5c4dac24-4462-4c67-a9f1-1c06c931ba55)
 
 4- Wait for some time, until system restarts twice.
 
