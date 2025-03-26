@@ -16,18 +16,22 @@ To start installation follow as bellow.
 
 ![2](https://github.com/user-attachments/assets/5c4dac24-4462-4c67-a9f1-1c06c931ba55)
 
-4- Wait for some time, until system restarts twice.
+4- Select the type of installation. (Custom)
 
-![4](https://github.com/user-attachments/assets/9508d80f-26eb-405b-8981-acbda9480484)
+![3](https://github.com/user-attachments/assets/3e38e8e4-5a0d-40ca-b2a9-2c225f3c4543)
 
-5- Wait for some time.
+5- Wait for some time, until the system restarts twice.
+
+![4](https://github.com/user-attachments/assets/50acf0d7-28fc-4f43-ad7e-6eb386a8724c)
+
+6- Wait for some time.
 
 <img width="638" alt="5" src="https://github.com/user-attachments/assets/3f2b4f24-3460-469c-9751-d150101515c6" />
 
-6- Type the password and click on "->" next arrow button.
+7- Type the password and click on "->" next arrow button.
 
 <img width="638" alt="6" src="https://github.com/user-attachments/assets/a45a9f56-97da-41c3-942b-93ff88f227d7" />
 
-7- This is the final step
+8- This is the final step
 
 <img width="962" alt="7" src="https://github.com/user-attachments/assets/066c6885-f1cf-4a89-a859-9c909fe2fd66" />
